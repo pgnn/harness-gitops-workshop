@@ -5,7 +5,7 @@ metadata:
 spec:  
   generators:  
     - git:  
-        repoURL: https://github.com/GITHUB_USERNAME/harness-gitops-workshop.git  
+        repoURL: https://github.com/pgnn/harness-gitops-workshop.git  
         revision: HEAD  
         files:  
         - path: "configs/git-generator-files-discovery/cluster-config/**/config.json"  
