@@ -15,7 +15,7 @@ spec:
     spec:  
       project: d02060ec  
       source:  
-        repoURL: https://github.com/GITHUB_USERNAME/harness-gitops-workshop.git  
+        repoURL: https://github.com/pgnn/harness-gitops-workshop.git  
         targetRevision: HEAD  
         path: "configs/git-generator-files-discovery/apps/podinfo"  
       destination:  
